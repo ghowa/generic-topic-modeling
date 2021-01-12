@@ -1,6 +1,6 @@
 ## Generic Topic Modeling
 
-Data and scripts for topic modeling projects using Gensim. Derived from the Russian Blog Project.
+Data and scripts for topic modeling projects using Gensim. Derived from the [Russian Blog Project](https://github.com/ghowa/russian-blogs).
 
 Uses Python 3.9 and Jupyter notebooks for visualisation.
 
