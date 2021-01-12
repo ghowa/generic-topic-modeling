@@ -1,8 +1,6 @@
-## Russian Authors on the Internet
+## Generic Topic Modeling
 
-Data and scripts for the following monograph:
-
-Howanitz, Gernot. 2020. *Leben Weben. (Auto-)Biographische Praktiken russischer Autorinnen und Autoren im Internet*. Bielefeld: transcript. (= PhD thesis, U of Passau 2017). [Available in Open Access](https://www.transcript-verlag.de/media/pdf/43/90/40/oa9783839451328.pdf)
+Data and scripts for topic modeling projects using Gensim. Derived from the Russian Blog Project.
 
 Uses Python 3.9 and Jupyter notebooks for visualisation.
 
