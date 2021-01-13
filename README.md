@@ -10,7 +10,7 @@ Uses Python 3.9 and Jupyter notebooks for visualisation.
 
 ```
 git init
-git clone https://github.com/ghowa/russian-blogs.git
+git clone https://github.com/ghowa/generic-topic-modeling
 ```
 ### Variant 1: Pip
 
