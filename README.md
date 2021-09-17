@@ -10,9 +10,8 @@ Uses Python 3.9 and Jupyter notebooks for visualisation.
 
 ```
 git init
-git clone https://github.com/ghowa/generic-topic-modeling
+git clone -b ruslit https://github.com/ghowa/generic-topic-modeling
 ```
-### Variant 1: Pip
 
 1.1 Install required python packages
 
@@ -29,14 +28,6 @@ jupyter nbextension enable --py --sys-prefix qgrid
 jupyter nbextension enable --py --sys-prefix widgetsnbextension
 ```
 
-### Variant 2: Anaconda
-
-2.1 Install required python packages
-
-```
-conda env create -f environment.yml
-```
-
 ## Usage
 
 Start Jupyter notebook: 
@@ -46,3 +37,4 @@ jupyter notebook
 ```
 
 A browser window will open. Select "corpus.ipynb" for browsing the corpus or "create_lda.ipynb" for creating a new topic model of the corpus.
+
